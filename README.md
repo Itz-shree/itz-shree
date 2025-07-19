@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi there! I'm Shree Sai
 
-<!--
-**Itz-shree/itz-shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BCA student at Jain College  
+💻 Currently learning Python, DSA, and Web Development  
+🚀 Just started my journey into tech — excited to build and grow!
 
-Here are some ideas to get you started:
+### 🔧 What I'm working on:
+- Basics of Python and GitHub
+- Uploading my first few projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Python programming
+- HTML, CSS & JavaScript
+- Data Structures & Algorithms (LeetCode grind incoming 😅)
+
+### 🤝 Looking to connect with:
+- Beginner devs
+- Tech seniors
+- Anyone learning in public
+
+### 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/shree-sai-badawannache-392538328/
+- Email: shreesaibadawannache24@gmail.com
+
+### ⚡ Fun fact:
+I started this journey in July 2025 and plan to document everything publicly 🎯
+    
