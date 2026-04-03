@@ -1,27 +1,24 @@
-## 👋 Hi there! I'm Shree Sai
+👋 Shreesai
 
+Building in silence. Learning in public.
 
-💻 Currently learning Python, DSA, and Web Development  
-🚀 Just started my journey into tech — excited to build and grow!
+🚀 Currently:
+- Python • DSA • Web Development
+- Turning ideas into projects
 
-### 🔧 What I'm working on:
-- Basics of Python and GitHub
-- Uploading my first few projects
+⚙️ Focus:
+- Writing clean, scalable code
+- Problem solving (LeetCode grind)
+- Shipping consistently
 
-### 🌱 Currently learning:
-- Python programming
-- HTML, CSS & JavaScript
-- Data Structures & Algorithms (LeetCode grind incoming 😅)
+📌 Projects:
+- Coming soon.
 
-### 🤝 Looking to connect with:
-- Beginner devs
-- Tech seniors
-- Anyone learning in public
+🤝 Open to:
+- Collaborations
+- Learning with serious builders
 
-### 📫 How to reach me:
+📫 Reach me:
 - LinkedIn: https://www.linkedin.com/in/shree-sai-badawannache-392538328/
-- Email: shreesaibadawannache24@gmail.com
 
-### ⚡ Fun fact:
-I started this journey in July 2025 and plan to document everything publicly 🎯
-    
+⚡ Started: July 2025
