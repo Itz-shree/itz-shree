@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Shree Sai
 
-🎓 I'm a BCA student at Jain College  
+
 💻 Currently learning Python, DSA, and Web Development  
 🚀 Just started my journey into tech — excited to build and grow!
 
