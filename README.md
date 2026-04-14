@@ -1,7 +1,5 @@
 👋 Shreesai
 
-Building in silence. Learning in public.
-
 🚀 Currently:
 - Python • DSA • Web Development
 - Turning ideas into projects
