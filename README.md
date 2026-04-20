@@ -1,22 +1,29 @@
 👋 Shreesai
 
+Building quietly. Learning through execution.
+
 🚀 Currently:
-- Python • DSA • Web Development
-- Turning ideas into projects
+- Web Development • Java • JavaScript
+- Exploring how to turn ideas into real systems
 
 ⚙️ Focus:
-- Writing clean, scalable code
-- Problem solving (LeetCode grind)
-- Shipping consistently
+- Execution over theory
+- Problem solving & system thinking
+- Building consistently
 
-📌 Projects:
-- Coming soon.
+🧠 Background:
+- Built and scaled Timeless Threads (exited)
+- Worked on e-commerce ventures (Uptrendz, Diva Bloom)
+- Former Intern @ JPMorgan Chase
+
+📌 Work:
+- Projects in progress.
 
 🤝 Open to:
-- Collaborations
-- Learning with serious builders
+- Collaborations with serious builders
 
 📫 Reach me:
-- LinkedIn: https://www.linkedin.com/in/shree-sai-badawannache-392538328/
+- LinkedIn:  https://www.linkedin.com/in/shree-sai-badawannache
 
-⚡ Started: July 2025
+⚡ Status:
+- Early stage. Building with intent.
